@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://scikit-learn.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60" height="60" alt="Scikit-learn"/>
+<img src="https://in.images.search.yahoo.com/yhs/view;_ylt=AwrKBGY32JNqN0EvQegO9olQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2Q4YmIwYTdiNGE4YzkyZDY3ZTU1NzY1ZmNlZDdkYWY0BGdwb3MDNgRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dscikit%2Blearn%26type%3Dtype80160-674343068%26fr%3Dyhs-sz-002%26hsimp%3Dyhs-002%26hspart%3Dsz%26param1%3D2558972043%26tab%3Dorganic%26ri%3D6&w=1200&h=600&imgurl=codigofacil.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2Fscikit-learn-img.jpg&rurl=https%3A%2F%2Fcodigofacil.com.br%2Fscikit-learn%2F&size=54KB&p=scikit+learn&oid=d8bb0a7b4a8c92d67e55765fced7daf4&fr2=&fr=yhs-sz-002&tt=Como+usar+o+Scikit-learn+para+Machine+Learning+no+Python&b=0&ni=100&no=6&ts=&tab=organic&sigr=BP1KhERFrRmq&sigb=s8VPCJgbJx4K&sigi=MGyqXBG90Qtb&sigt=rkzB7VOevDCy&.crumb=90UbHrzqClO&fr=yhs-sz-002&hsimp=yhs-002&hspart=sz&type=type80160-674343068&param1=2558972043" width="60" height="60" alt="Scikit-learn"/>
 </a>
 
 <a href="https://matplotlib.org/">
