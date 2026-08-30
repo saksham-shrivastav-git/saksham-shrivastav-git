@@ -35,19 +35,19 @@ I'm a B.Tech CSE student specializing in **Artificial Intelligence**, passionate
 
 ## 🚀 Featured Projects
 
-### 🛡️ Phishing Website Detection(onworking)
+### 🛡️ Phishing Website Detection *(Ongoing)*
 
 Machine Learning based system for identifying whether a website URL is potentially **phishing or legitimate**.
 
 ### 🏠 NYC Airbnb Room Type Predictor
 
 Machine Learning classification project that predicts the **room type** of an Airbnb listing using NYC Airbnb data.
-live : [NYC_web]("https://airbnb-nyc-room-type-predictor-sx9t.onrender.com")
 
-### Customer Chrun Analysis.
+🔗 **Live Demo:** [NYC Airbnb Room Type Predictor](https://airbnb-nyc-room-type-predictor-sx9t.onrender.com)
+
+### 📊 Customer Churn Analysis
 
 Analyzed customer data to identify key factors **influencing customer churn** and derived actionable insights using Python, Pandas, NumPy, and data visualization techniques.
-
 
 ---
 
@@ -67,7 +67,7 @@ Analyzed customer data to identify key factors **influencing customer churn** an
 ## 📫 Connect With Me
 
 * 💻 GitHub: [saksham-shrivastav-git](https://github.com/saksham-shrivastav-git)
-* 🔗 LinkedIn: [saksham shrivastav](https://www.linkedin.com/in/saksham-shrivastav-845a34313?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 🔗 LinkedIn: [Saksham Shrivastav](https://www.linkedin.com/in/saksham-shrivastav-845a34313/)
 
 ---
 
