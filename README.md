@@ -61,35 +61,17 @@
 </p>
 
 ---
-
 ## 🤖 AI / ML & Data Science
 
 <p align="left">
 
-<a href="https://numpy.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
-</a>
+<img src="https://skillicons.dev/icons?i=numpy" width="60" height="60" alt="NumPy"/>
 
-<a href="https://pandas.pydata.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
-</a>
+<img src="https://skillicons.dev/icons?i=pandas" width="60" height="60" alt="Pandas"/>
 
-<a href="https://scikit-learn.org/">
-<img src="https://in.images.search.yahoo.com/yhs/view;_ylt=AwrKBGY32JNqN0EvQegO9olQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2Q4YmIwYTdiNGE4YzkyZDY3ZTU1NzY1ZmNlZDdkYWY0BGdwb3MDNgRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dscikit%2Blearn%26type%3Dtype80160-674343068%26fr%3Dyhs-sz-002%26hsimp%3Dyhs-002%26hspart%3Dsz%26param1%3D2558972043%26tab%3Dorganic%26ri%3D6&w=1200&h=600&imgurl=codigofacil.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2Fscikit-learn-img.jpg&rurl=https%3A%2F%2Fcodigofacil.com.br%2Fscikit-learn%2F&size=54KB&p=scikit+learn&oid=d8bb0a7b4a8c92d67e55765fced7daf4&fr2=&fr=yhs-sz-002&tt=Como+usar+o+Scikit-learn+para+Machine+Learning+no+Python&b=0&ni=100&no=6&ts=&tab=organic&sigr=BP1KhERFrRmq&sigb=s8VPCJgbJx4K&sigi=MGyqXBG90Qtb&sigt=rkzB7VOevDCy&.crumb=90UbHrzqClO&fr=yhs-sz-002&hsimp=yhs-002&hspart=sz&type=type80160-674343068&param1=2558972043" width="60" height="60" alt="Scikit-learn"/>
-</a>
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="60" height="60" alt="Scikit-learn"/>
 
-<a href="https://matplotlib.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib"/>
-</a>
-
-</p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://skillicons.dev/icons?i=matplotlib" width="60" height="60" alt="Matplotlib"/>
 
 </p>
 
@@ -99,29 +81,17 @@
 
 <p align="left">
 
-<a href="https://flask.palletsprojects.com/">
 <img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask"/>
-</a>
 
-<a href="https://fastapi.tiangolo.com/">
 <img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI"/>
-</a>
 
-<a href="https://streamlit.io/">
 <img src="https://skillicons.dev/icons?i=streamlit" width="60" height="60" alt="Streamlit"/>
-</a>
 
-<a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/>
-</a>
 
-<a href="https://github.com/">
 <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/>
-</a>
 
-<a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code"/>
-</a>
 
 </p>
 
