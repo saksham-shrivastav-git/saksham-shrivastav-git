@@ -35,17 +35,19 @@ I'm a B.Tech CSE student specializing in **Artificial Intelligence**, passionate
 
 ## 🚀 Featured Projects
 
-### 🏠 NYC Airbnb Room Type Predictor
-
-Machine Learning classification project that predicts the **room type** of an Airbnb listing using NYC Airbnb data.
-
-### 🛡️ Phishing Website Detection
+### 🛡️ Phishing Website Detection(onworking)
 
 Machine Learning based system for identifying whether a website URL is potentially **phishing or legitimate**.
 
-### 💳 Financial Fraud Detection System
+### 🏠 NYC Airbnb Room Type Predictor
 
-AI/ML project designed to detect fraudulent transactions and generate a **risk assessment** using multiple ML techniques.
+Machine Learning classification project that predicts the **room type** of an Airbnb listing using NYC Airbnb data.
+live : [NYC_web]("https://airbnb-nyc-room-type-predictor-sx9t.onrender.com")
+
+### Customer Chrun Analysis.
+
+Analyzed customer data to identify key factors **influencing customer churn** and derived actionable insights using Python, Pandas, NumPy, and data visualization techniques.
+
 
 ---
 
