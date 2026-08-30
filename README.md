@@ -63,17 +63,32 @@
 ---
 ## 🤖 AI / ML & Data Science
 
+## 🤖 AI / ML & Data Science
+
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=numpy" width="60" height="60" alt="NumPy"/>
+<a href="https://numpy.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=pandas" width="60" height="60" alt="Pandas"/>
+<a href="https://pandas.pydata.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=scikitlearn" width="60" height="60" alt="Scikit-learn"/>
+<a href="https://scikit-learn.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="65" height="65" alt="Scikit-learn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=matplotlib" width="60" height="60" alt="Matplotlib"/>
+<a href="https://matplotlib.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="65" height="65" alt="Matplotlib"/>
+</a>
 
 </p>
+
+**NumPy** • **Pandas** • **Scikit-learn** • **Matplotlib**
 
 ---
 
