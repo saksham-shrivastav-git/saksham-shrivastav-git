@@ -63,8 +63,6 @@
 ---
 ## 🤖 AI / ML & Data Science
 
-## 🤖 AI / ML & Data Science
-
 <p align="left">
 
 <a href="https://numpy.org/">
@@ -96,19 +94,38 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask"/>
+<a href="https://flask.palletsprojects.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="65" height="65" alt="Flask"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI"/>
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="FastAPI"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=streamlit" width="60" height="60" alt="Streamlit"/>
+<a href="https://streamlit.io/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="65" height="65" alt="Streamlit"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/>
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/>
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code"/>
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
+</a>
 
 </p>
+
+**Flask** • **FastAPI** • **Streamlit** • **Git** • **GitHub** • **VS Code**
 
 ---
 
