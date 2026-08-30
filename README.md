@@ -169,11 +169,13 @@ Analyzed customer data to identify key factors influencing **customer churn** an
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saksham-shrivastav-git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saksham-shrivastav-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-shrivastav-git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-shrivastav-git&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
 </div>
 
@@ -181,7 +183,7 @@ Analyzed customer data to identify key factors influencing **customer churn** an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=saksham-shrivastav-git&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=saksham-shrivastav-git&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
