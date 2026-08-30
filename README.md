@@ -1,75 +1,189 @@
-# Hi 👋, I'm Saksham Shrivastav
+<div align="center">
 
-### 🎓 B.Tech CSE (Artificial Intelligence) Student | 🤖 AI/ML Enthusiast
+# 👋 Hi, I'm Saksham Shrivastav
 
-I'm a B.Tech CSE student specializing in **Artificial Intelligence**, passionate about building practical projects using **Machine Learning, Data Science, Python, and AI**.
+### 🎓 B.Tech CSE (Artificial Intelligence) | 🤖 AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Python+Developer;Data+Science+Explorer;Machine+Learning+Builder;Future+AI+Engineer" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/saksham-shrivastav-git">
+<img src="https://komarev.com/ghpvc/?username=saksham-shrivastav-git&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/saksham-shrivastav-git?tab=followers">
+<img src="https://img.shields.io/github/followers/saksham-shrivastav-git?label=Followers&style=flat" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-* 🎓 B.Tech CSE — Artificial Intelligence
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🐍 Working with **Python**
-* 📊 Exploring **Data Science & Data Analytics**
-* 🌐 Building and deploying ML applications
-* 🌱 Currently learning **Advanced AI/ML & Agentic AI**
+🎓 B.Tech CSE student specializing in **Artificial Intelligence**
+
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+
+🐍 Building practical projects using **Python**
+
+📊 Exploring **Data Analytics & Machine Learning**
+
+🌐 Deploying ML applications using modern frameworks
+
+🌱 Currently exploring **Advanced AI/ML & Agentic AI**
+
+💡 I enjoy turning data and ideas into practical solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-`Python` `Java` `SQL` `HTML` `CSS` `JavaScript`
+<p align="left">
 
-**AI / ML & Data Science**
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+</a>
+
+</p>
+
+### 🤖 AI / ML & Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+
+</p>
 
 `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
 
-**Frameworks & Tools**
+### ⚡ Frameworks & Tools
 
-`Flask` `FastAPI` `Streamlit` `Git` `GitHub` `VS Code`
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode" />
+
+</p>
+
+`FastAPI` `Streamlit`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛡️ Phishing Website Detection *(Ongoing)*
+### 🛡️ Phishing Website Detection
 
-Machine Learning based system for identifying whether a website URL is potentially **phishing or legitimate**.
+> **Ongoing**
+
+Machine Learning based system designed to identify whether a website URL is potentially **phishing or legitimate**.
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Flask`
+
+---
 
 ### 🏠 NYC Airbnb Room Type Predictor
 
-Machine Learning classification project that predicts the **room type** of an Airbnb listing using NYC Airbnb data.
+Machine Learning **classification project** that predicts the room type of an Airbnb listing using NYC Airbnb data.
 
 🔗 **Live Demo:** [NYC Airbnb Room Type Predictor](https://airbnb-nyc-room-type-predictor-sx9t.onrender.com)
 
+**Tech:** `Python` `Pandas` `Scikit-learn` `FastAPI` `HTML` `CSS` `JavaScript`
+
+---
+
 ### 📊 Customer Churn Analysis
 
-Analyzed customer data to identify key factors **influencing customer churn** and derived actionable insights using Python, Pandas, NumPy, and data visualization techniques.
+Analyzed customer data to identify key factors influencing **customer churn** and derived actionable insights through data analysis and visualization.
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-* **AI Skills Passport** — EY & Microsoft
-* **Python Basics** — HackerRank
+🏆 **AI Skills Passport** — EY & Microsoft
 
----
-
-## 📊 GitHub Stats
-
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham-shrivastav-git\&show_icons=true\&theme=tokyonight)
+🏆 **Python Basics** — HackerRank
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Analytics
 
-* 💻 GitHub: [saksham-shrivastav-git](https://github.com/saksham-shrivastav-git)
-* 🔗 LinkedIn: [Saksham Shrivastav](https://www.linkedin.com/in/saksham-shrivastav-845a34313/)
-* leetcode:[My leetcode](https://leetcode.com/u/PILKe0sTXA)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saksham-shrivastav-git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-shrivastav-git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=saksham-shrivastav-git&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-⭐ *Always learning, building, and exploring the world of AI.*
+# 🧩 Contribution Graph
+
+<div align="center">
+
+[![Saksham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham-shrivastav-git\&theme=tokyo-night)](https://github.com/saksham-shrivastav-git)
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/saksham-shrivastav-git">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saksham-shrivastav-845a34313/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/PILKe0sTXA/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 *"Learning. Building. Improving."*
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
